@@ -1,0 +1,5 @@
+pyproject.toml
+src/itrip/itrip.egg-info/PKG-INFO
+src/itrip/itrip.egg-info/SOURCES.txt
+src/itrip/itrip.egg-info/dependency_links.txt
+src/itrip/itrip.egg-info/top_level.txt

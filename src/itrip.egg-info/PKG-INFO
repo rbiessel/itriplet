@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: itrip
+Version: 0.0.1
+Summary: Intensity Triplet inversions of closure phases
+Author-email: Rowan Biessel <rb894@cornell.edu>
+Project-URL: Homepage, https://github.com/CRIttRS/
+Project-URL: Issues, https://github.com/CRIttRS/
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown

@@ -1,0 +1,20 @@
+[project]
+name = "itrip"
+version = "0.0.1"
+authors = [
+  { name="Rowan Biessel", email="rb894@cornell.edu" },
+]
+description = "Intensity Triplet inversions of closure phases"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/CRIttRS/"
+Issues = "https://github.com/CRIttRS/"
+
+[tool.setuptools.packages.find]
+where = ["src"]

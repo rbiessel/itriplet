@@ -1,0 +1,7 @@
+pyproject.toml
+src/itrip/__init__.py
+src/itrip/slc_stack.py
+src/itrip.egg-info/PKG-INFO
+src/itrip.egg-info/SOURCES.txt
+src/itrip.egg-info/dependency_links.txt
+src/itrip.egg-info/top_level.txt
